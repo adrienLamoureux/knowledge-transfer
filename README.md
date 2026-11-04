@@ -8,3 +8,8 @@ canonical). Built and linted with the `docs-kit` plugin from `claude-skills`.
 
 Sources are labelled Practice (public links), Notes (private study notes, no ref), Lesson
 (learned on real systems, unnamed) and Case (one hypothetical worked case).
+
+## Licence
+
+Text and diagrams: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), see `LICENSE`.
+Linked sources belong to their authors.
